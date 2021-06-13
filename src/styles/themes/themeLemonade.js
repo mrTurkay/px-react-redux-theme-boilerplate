@@ -6,4 +6,7 @@ export const themeLemonade = {
     darker: "#A4E8E0",
     lessDarker: "#F8EA8C",
   },
+  shadows: {},
+  margin: "0.5rem",
+  borderRadius: 15,
 };

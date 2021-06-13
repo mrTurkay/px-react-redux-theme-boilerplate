@@ -6,6 +6,7 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 import { themeLemonade } from "./styles/themes/themeLemonade";
 import store from "./store";
 import { Provider } from "react-redux";
+import { themeLightBlue } from "./styles/themes/themeLightBlue";
 
 ReactDOM.render(
   <React.StrictMode>

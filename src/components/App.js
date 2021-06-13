@@ -11,7 +11,7 @@ function App() {
   const dispatch = useDispatch();
 
   return (
-    <div>
+    <div style={{ backgroundColor: theme.palette.lighter }}>
       <button
         onClick={() => {
           dispatch({ type: "counter/incremented" });
